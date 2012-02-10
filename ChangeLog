@@ -1,3 +1,6 @@
+0.31 -  I forked this project from yangguilong. this version is for enjoying this tools.
+
+
 0.3 -
 	new flymake configuration with epy-setup-checker
 	datetime django snippet renamed to dtime
